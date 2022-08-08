@@ -762,7 +762,7 @@ hash = "98733ae0d3142295764e9c949c9f78b4d073495934d540ffc59756feec577588"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+hash = "a97aa41093e802a5eefbf371feb9b71429043145de1722e2ad384a538803ec3a"
 metafile = true
 
 [[files]]
@@ -1391,11 +1391,6 @@ hash = "b3a7a768f5cad649f60691f707c2b7c92de86fff18c50bb6ad82074d1d4d28c3"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "15350b769fc12838c269fb9abe09a27cfbe41a90dcbdce18b55d8bc51236108b"
-metafile = true
-
-[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "6bdff050481f582ae8ea0fd3d91b44693ea5dbe5bb430b519dbb5a4c3564e8dd"
 metafile = true
@@ -1472,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/updated-wall-jump.pw.toml"
-hash = "e2ef0d566bc7306a2903b3ebf8758e1781837beaf3a1ea3c5734ce58851885e3"
+hash = "20dd540d01c50a71f49be2ee64050bfa0d03d6626d5c53019f7f47f28a511925"
 metafile = true
 
 [[files]]
@@ -1493,11 +1488,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "40360801a7c848670982d7f332d30a25c9a62490caeb58e2d2664629f7a20ad5"
-metafile = true
-
-[[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "e2aa4ebb0b7e51671fe8b7b0bb8c0b761d88f252559a08f94da6e29a85b0a32f"
 metafile = true
 
 [[files]]
