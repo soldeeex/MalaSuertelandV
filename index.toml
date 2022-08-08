@@ -761,6 +761,11 @@ file = "config/zoomify.json"
 hash = "98733ae0d3142295764e9c949c9f78b4d073495934d540ffc59756feec577588"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
 metafile = true
@@ -947,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "f42b5d6e1351cd35715f392e2bd3db2914299297209ca4c5193143ddec836608"
+hash = "39aae490536f0b887997cf4c5495896fcef4a61babbdb8d00e1647cd350096f2"
 metafile = true
 
 [[files]]
@@ -982,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
 
 [[files]]
@@ -1212,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/megaparrot.pw.toml"
-hash = "0225fb94694fdbdb08ffb9917483074380ffb50ddce7afa19ac20be646f221f5"
+hash = "7aedda8490d75334971b4ceef48a3ef09372a0aee8b183d6ba562e1e573d6033"
 metafile = true
 
 [[files]]
@@ -1272,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1986f1bb1573e257a0f657a7f32e76e28e3429bb8fb672013a3bbaa89155fd0e"
+hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
 
 [[files]]
@@ -1392,7 +1397,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp.pw.toml"
-hash = "31a16f82529b0ebc262636a41ad42a5eb033b6d1ad3d1544a2dbfdbcb9b66857"
+hash = "6bdff050481f582ae8ea0fd3d91b44693ea5dbe5bb430b519dbb5a4c3564e8dd"
 metafile = true
 
 [[files]]
@@ -1483,6 +1488,11 @@ metafile = true
 [[files]]
 file = "mods/voidtotem-fabric.pw.toml"
 hash = "826e9fcddce6ad57d402f216fad414a6c04a0c8058841de1c6b96432a251ef6e"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "40360801a7c848670982d7f332d30a25c9a62490caeb58e2d2664629f7a20ad5"
 metafile = true
 
 [[files]]
