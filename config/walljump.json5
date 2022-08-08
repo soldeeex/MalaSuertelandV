@@ -1,0 +1,40 @@
+{
+	// Blacklists block inputted; can't Wall Jump off it, format (name => 'SPRUCE_LOG' or 'SAND')
+	"blockBlacklist": [],
+	// Classic Wall Jump which allows Crouch, the reason this can't be keybinded is because Fabric doesn't support Multi Mapping.
+	"classicWallJump": false,
+	// Allows you to climb up without alternating walls.
+	"allowReclinging": false,
+	// Automagically turn the player when wall clinging.
+	"autoRotation": false,
+	// Enables Elytra Wall Cling: Clinging to the Wall with Elytra Deployed.
+	"enableElytraWallCling": false,
+	// Elytra speed boost; set to 0.0 to disable.
+	"elytraSpeedBoost": 0.0,
+	// Exhaustion gained per wall jump.
+	"exhaustionWallJump": 0.8,
+	// Exhaustion gained per double jump.
+	"exhaustionDoubleJump": 1.2,
+	// Minimum distance for fall damage; set to 3.0 to disable.
+	"minFallDistance": 7.5,
+	// Play a rush of wind as you fall to your doom.
+	"playFallSound": true,
+	// Sprint speed boost; set to 0.0 to disable.
+	"sprintSpeedBoost": 0.0,
+	// If you disable Speed Boost, it enables the enchantment automagically, this option disables the enchantment.
+	"enableSpeedBoostEnchantment": false,
+	// If you disable Wall Jump, it enables the enchantment automagically, this option disables the enchantment.
+	"enableWallJumpEnchantment": false,
+	// If you disable Double Jump, it enables the enchantment automagically, this option disables the enchantment.
+	"enableDoubleJumpEnchantment": false,
+	// Walk up steps even while airborne, also jump over fences.
+	"stepAssist": true,
+	// Allows you to jump in mid-air
+	"useDoubleJump": true,
+	// Allows you to wall cling and wall jump.
+	"useWallJump": true,
+	// Height of Wall Jumps
+	"wallJumpHeight": 0.55,
+	// Ticks wall clinged before starting wall slide.
+	"wallSlideDelay": 20
+}

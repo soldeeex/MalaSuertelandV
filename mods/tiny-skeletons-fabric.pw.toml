@@ -1,0 +1,13 @@
+name = "Tiny Skeletons [Outdated]"
+filename = "TinySkeletons-v3.2.1-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2df3e17f2aff05b23ce7d271f3e75654a8c3edda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3727733
+project-id = 548708

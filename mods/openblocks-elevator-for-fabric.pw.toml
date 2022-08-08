@@ -1,0 +1,13 @@
+name = "OpenBlocks Elevator Port for Fabric"
+filename = "OpenBlocks_Elevator_Fabric_v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81d7580914042e6bf104d4d2aabd6f030d08f062"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834446
+project-id = 633694

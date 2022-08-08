@@ -1,0 +1,13 @@
+name = "SleepWarp"
+filename = "sleepwarp-1.1.1+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a46f66ec649169f370eb6ec0ad280c319a4c960"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3668035
+project-id = 579295
