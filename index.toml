@@ -421,8 +421,9 @@ file = "config/fancymenu/panoramas/background/panorama/panorama_5.png"
 hash = "31df2607e62dd6a2eb6f1fc2983f4cafbb0e8b306ee966c2eef60db73b04393d"
 
 [[files]]
-file = "config/fancymenu/panoramas/background/properties.txt"
-hash = "3d7aa8a6849b30e0151717448d5e5b3346b8069c2dc305e9060707f8f5d96dc4"
+file = "config/fancymenu/panoramas/background/properties.pw.toml"
+hash = "4def557d415f94c57b2ee084b59af829a167428e52021073029bf13130e864d2"
+metafile = true
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
