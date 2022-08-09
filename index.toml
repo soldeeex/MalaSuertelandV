@@ -422,8 +422,12 @@ hash = "31df2607e62dd6a2eb6f1fc2983f4cafbb0e8b306ee966c2eef60db73b04393d"
 
 [[files]]
 file = "config/fancymenu/panoramas/background/properties.pw.toml"
-hash = "4def557d415f94c57b2ee084b59af829a167428e52021073029bf13130e864d2"
+hash = "2471695bde745e469c36ef6d1daa4a73e4a8833df7374f94acb355a7af6d05fe"
 metafile = true
+
+[[files]]
+file = "config/fancymenu/panoramas/background/properties.pw.toml.bak"
+hash = "4def557d415f94c57b2ee084b59af829a167428e52021073029bf13130e864d2"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
