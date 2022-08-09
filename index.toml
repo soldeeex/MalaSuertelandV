@@ -13,10 +13,6 @@ file = "config/PlasmoVoice/config.json"
 hash = "286728649dae68265915b2341f14c2368dc2bc61850beb49a5226c0972e1fbec"
 
 [[files]]
-file = "config/PlasmoVoice/server.yml"
-hash = "e6ce65e98af572331c88791889512396135390f31db973a0ec2ed7b552247367"
-
-[[files]]
 file = "config/PlasmoVoice/server_data.json"
 hash = "ec1e4eb5cb0f9781edaefa27df5c620a72c4e5f5b56169d31196640e6683e966"
 
@@ -293,10 +289,6 @@ file = "config/byg/trades.json5"
 hash = "ecc993fb07f8b23659be98d061b21ab3819f1f8c056483d249f2f31ce190048c"
 
 [[files]]
-file = "config/capes.json5"
-hash = "e5060864e91e00a9c7ea96084986ca4fd8ba21c2e612005329ffb5274dee643d"
-
-[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
@@ -323,10 +315,6 @@ hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 [[files]]
 file = "config/collective-fabric.json"
 hash = "a96dc1d34609e0ed2d4bd3c3cab74944040d52000d9dffe3047865e14f2bb14b"
-
-[[files]]
-file = "config/colormatic.properties"
-hash = "7196c2e623d5ab117f0d70f4e65c5becf469b5ae46416d2e2ea29a151a9a51ca"
 
 [[files]]
 file = "config/comforts.json5"
@@ -377,24 +365,12 @@ file = "config/endgoblintraders.toml"
 hash = "68cf9ebc4ff1e41e34cb8457a04125738919a6025fc1e61daf3bbbec769bc6d3"
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "231f756ead5286324a4745702a837642734d565c41f2d20ebc51f0fc8af13a22"
-
-[[files]]
 file = "config/entity_texture_features.json"
 hash = "46eb61341f2f448af09051649509a69305a6923a7139a1c042af990e84a0da75"
 
 [[files]]
 file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "75de93fe8d85a781f6da0cd37cb0bd88fcca071a3dbe76b76bebd78bf56d175f"
-
-[[files]]
-file = "config/fabrishot.properties"
-hash = "e4018354d88c6f5f34a192eb4789e62217e0d482f19459eb7828ce32b9ce3646"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -465,10 +441,6 @@ file = "config/iammusicplayer.toml"
 hash = "7b90ecb0658aa727372c71a4b8a5600a2748725790902130d6611531e09f1a08"
 
 [[files]]
-file = "config/indium-renderer.properties"
-hash = "69adabaee4d2671d36a2770e9cb09a5a4f5de5e5ad2aa25a19fbcb97f3faa4b4"
-
-[[files]]
 file = "config/inventoryhud.json"
 hash = "6052ad77431881835e6a3ca8e25da3a1971e67a375212b93e892d0cf312c5440"
 
@@ -479,10 +451,6 @@ hash = "274dcf155e9646094d42f860442f2c29f627145c90ad01d6ea10833915552687"
 [[files]]
 file = "config/inventorysorter/config.json5"
 hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
-
-[[files]]
-file = "config/iris.properties"
-hash = "4029fc20a9da7d66bd570e0def3c7ceceea3d721ba153553d7760141eb2e3e2d"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -519,10 +487,6 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 [[files]]
 file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "a7127a85d203da6149c21c8e29b31313a03d3e2373589b1b196709c06adfb16f"
 
 [[files]]
 file = "config/libnetworkstack.txt"
@@ -617,16 +581,8 @@ file = "config/rpgz.json5"
 hash = "b1e09ad26598aca83b370a8b376d7ecf84e2345d0e7a7a48b304dfe66441f7f4"
 
 [[files]]
-file = "config/rrp.properties"
-hash = "3387a6f07608d9924de595bed20730e9d041839ae0efc6537a18859c2aa9ba52"
-
-[[files]]
 file = "config/seasons.json"
 hash = "0c8757883ef09e99cd43302e4eb5e246db1bfd4b73e5ef418110a7ce6b227b8e"
-
-[[files]]
-file = "config/second-chance.properties"
-hash = "e6707756cf8f1b72f0bcdda17d54817caf8c740f342c5447ee894b81f1cd05c4"
 
 [[files]]
 file = "config/second_chance_config.json"
@@ -659,22 +615,6 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 [[files]]
 file = "config/sodium-options.json"
 hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a3cd77d1176af0a7866e38e44f755260b86f9663b4d9dcc697283cb1082ea8ef"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "dac8570fab67074d7361424073100bf57cd1ecd6302bde61c83e127418572c9a"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "ff70f9341c301d42ca3eee4d0433425b9856f1d79663b844404a396c0bfd8ea0"
-
-[[files]]
-file = "config/terrablender.toml"
-hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
 
 [[files]]
 file = "config/thonkutil-coords-v1.json"
@@ -717,10 +657,6 @@ file = "config/voidtotem.toml"
 hash = "88286794bb7e3f261a2061f2cee04943d5941fbc5d298ac7eb7194028c138585"
 
 [[files]]
-file = "config/wall-jump.properties"
-hash = "8e996324b3a3c79bb15d6969784b952af61e72cd758d8cae85bb0042870e1da7"
-
-[[files]]
 file = "config/walljump.json5"
 hash = "1724ab57fb78b29327d9f9d8c122a001b92c5274fccd95d34287cd49a5dc9151"
 
@@ -731,10 +667,6 @@ hash = "f56a38d71c9212f81746bd93442939843ecb7db6f74f04b0626f82dfc2ad26fc"
 [[files]]
 file = "config/waystones.toml"
 hash = "6efb18c00b43f14fcc908018244e91a8a93e27935feaf5bd44811314d37feb4a"
-
-[[files]]
-file = "config/worldedit/worldedit.properties"
-hash = "6644b8207efe560bdc622f5e95cbf82c0b9f23375828ff9b15df40b47a26dea1"
 
 [[files]]
 file = "config/worldeditcui.config.json"
@@ -1572,7 +1504,3 @@ hash = "87c4df790f0bc55e4c7b93677211f5b5faef88aad3647aedab21706037cf62c7"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.1.1.zip"
 hash = "329606ba016eb7e880c7360bef80b6701e3e0825a90ef14d009b3db89655f792"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.1.1.zip.txt"
-hash = "7d7d8da32b1fa1207ddc99be71ec859e2a05487c4d593446c9f9a6a9e636cc44"
