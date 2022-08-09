@@ -5,6 +5,6 @@ side = "both"
 [download]
 url = "https://github.com/Ladysnake/Effective/releases/download/1.2.1/effective-1.2.1-sources.jar"
 hash-format = "sha256"
-hash = "c2574017b53faff1f1ac2a46ee7baca234e62400"
+hash = "1635003f9e47a7f07ae26105826c1b0207ccba3fc5bd1041abb84a7c5b7d75dd"
 
 
