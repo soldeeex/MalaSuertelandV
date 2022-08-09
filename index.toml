@@ -545,10 +545,6 @@ file = "config/puzzle.json"
 hash = "ea3178db89858a8e686f53117dddb73f39e46ec4b8a1446834d9d85e55ba46d2"
 
 [[files]]
-file = "config/repurposed_structures-fabric/biome_dimension_allow_disallow_configs.json5"
-hash = "8f290e024abdf87af2a3d4c7396aecabcddeb4141b8965fbac5993f7e425695a"
-
-[[files]]
 file = "config/repurposed_structures-fabric/general_configs.json5"
 hash = "615c2518f2c8d2f507207769276d96fa771730543f98ddfe0770b0c4b5e359cb"
 
