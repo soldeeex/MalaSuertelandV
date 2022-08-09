@@ -7,5 +7,5 @@ url = "https://raw.githubusercontent.com/soldeeex/mala-files/main/properties.txt
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "3d7aa8a6849b30e0151717448d5e5b3346b8069c2dc305e9060707f8f5d96dc4"
+hash-format = "sha1"
+hash = "9604a29f5006b7a6e53e70a7ec942ce85b40709e"
