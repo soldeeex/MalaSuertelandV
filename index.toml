@@ -884,12 +884,12 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "e887b59d2c041e516321183b53c4f0c43efb1109a3967f557ba65f35929ff519"
+hash = "c93f0cfc343e79f351b98de79975e21fba2cd85cc7d89af28bd80fb37ae848c0"
 metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml.bak"
-hash = "de8c461d953742111ccf6f5a2b40d273988b88299d26cb76f8b6961783fbd8ed"
+hash = "203c2b75603134ffa9b532c672709838a3bb57c5218fc21fdd7ee075c323172b"
 
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
