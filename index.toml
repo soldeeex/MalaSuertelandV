@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Adorn.json5"
-hash = "cd7e9a0b0248131ee7923eb63a9a61f41efbe57ee6b0919c003693ecba52a6ae"
-
-[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "a9fa83267b7a67c97ded9110eb8dc5636ab5a528fe52851317c0c16d93a3800c"
 
@@ -401,16 +397,8 @@ file = "config/fancymenu/locals/zh_cn.local"
 hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
 [[files]]
 file = "config/findme.json"
@@ -575,10 +563,6 @@ hash = "321731cbe4749b17aec46861e9563c3ddcd5f9459754a07ca0b529ecb34de105"
 [[files]]
 file = "config/rpgz.json5"
 hash = "b1e09ad26598aca83b370a8b376d7ecf84e2345d0e7a7a48b304dfe66441f7f4"
-
-[[files]]
-file = "config/seasons.json"
-hash = "0c8757883ef09e99cd43302e4eb5e246db1bfd4b73e5ef418110a7ce6b227b8e"
 
 [[files]]
 file = "config/second_chance_config.json"

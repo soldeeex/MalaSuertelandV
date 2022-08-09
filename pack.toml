@@ -1,12 +1,12 @@
-name = "malasuertelandv"
+name = "Mala Suerteland V"
 author = "soldeeex"
-version = "0.1"
+version = "0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cf71b5340e3088cab3219433529a40c3f984cabdf8324df1b13d2ffb24f1c6b3"
+hash = "1bf0d100113c48419fc5bc77fddff857687ba39c7bea982a9b439b8c73ab30f3"
 
 [versions]
 fabric = "0.14.8"
