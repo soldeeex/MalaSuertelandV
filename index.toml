@@ -397,6 +397,34 @@ file = "config/fancymenu/locals/zh_cn.local"
 hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
+file = "config/fancymenu/panoramas/background/panorama/panorama_0.png"
+hash = "d49e211c62a584384c3ccbae99736e595f5332c62036fe3ed9bbe4f4da0576e7"
+
+[[files]]
+file = "config/fancymenu/panoramas/background/panorama/panorama_1.png"
+hash = "0b4e09f9f6d1ae5f01570bbd77f9ec84dc5869e568f2995d0f9b3287d747614a"
+
+[[files]]
+file = "config/fancymenu/panoramas/background/panorama/panorama_2.png"
+hash = "38188c229b58413eecf1c5d3b54ca27f35e050facfeca99e62c84762b2bdc6e9"
+
+[[files]]
+file = "config/fancymenu/panoramas/background/panorama/panorama_3.png"
+hash = "736e2889c4f9f8cba96daa1b0ec221cff8f5a904181555c2c7e9f2f1066deca3"
+
+[[files]]
+file = "config/fancymenu/panoramas/background/panorama/panorama_4.png"
+hash = "25065f120374b79f25bf7ae2b748c28f13ad1c44f4ef4d42b9a36e5e4a93cc95"
+
+[[files]]
+file = "config/fancymenu/panoramas/background/panorama/panorama_5.png"
+hash = "31df2607e62dd6a2eb6f1fc2983f4cafbb0e8b306ee966c2eef60db73b04393d"
+
+[[files]]
+file = "config/fancymenu/panoramas/background/properties.txt"
+hash = "3d7aa8a6849b30e0151717448d5e5b3346b8069c2dc305e9060707f8f5d96dc4"
+
+[[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
@@ -1467,30 +1495,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 metafile = true
-
-[[files]]
-file = "recursos/background/panorama_0.png"
-hash = "d49e211c62a584384c3ccbae99736e595f5332c62036fe3ed9bbe4f4da0576e7"
-
-[[files]]
-file = "recursos/background/panorama_1.png"
-hash = "0b4e09f9f6d1ae5f01570bbd77f9ec84dc5869e568f2995d0f9b3287d747614a"
-
-[[files]]
-file = "recursos/background/panorama_2.png"
-hash = "38188c229b58413eecf1c5d3b54ca27f35e050facfeca99e62c84762b2bdc6e9"
-
-[[files]]
-file = "recursos/background/panorama_3.png"
-hash = "736e2889c4f9f8cba96daa1b0ec221cff8f5a904181555c2c7e9f2f1066deca3"
-
-[[files]]
-file = "recursos/background/panorama_4.png"
-hash = "25065f120374b79f25bf7ae2b748c28f13ad1c44f4ef4d42b9a36e5e4a93cc95"
-
-[[files]]
-file = "recursos/background/panorama_5.png"
-hash = "31df2607e62dd6a2eb6f1fc2983f4cafbb0e8b306ee966c2eef60db73b04393d"
 
 [[files]]
 file = "recursos/logo.png"
