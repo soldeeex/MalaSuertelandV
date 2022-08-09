@@ -349,10 +349,6 @@ file = "config/ecologics.json"
 hash = "6b8db1b8c3f9dfb655a2db483db7c02972b147eb53591945b4782f9049054168"
 
 [[files]]
-file = "config/effective.json"
-hash = "d019c209df045fb1c3dc112f0bee1a66db1909ed97664ec7c5c298446f33af34"
-
-[[files]]
 file = "config/emotecraft.json"
 hash = "f42b55475e00af9b9f05c9135e0b5a4067b6655d98ecea7c2f381c453b28c3d4"
 
@@ -880,11 +876,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e761b7aa8e757ec18a3030d4a791567102765f7eace1a133b0f4b973c6f28326"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "c93f0cfc343e79f351b98de79975e21fba2cd85cc7d89af28bd80fb37ae848c0"
 metafile = true
 
 [[files]]
