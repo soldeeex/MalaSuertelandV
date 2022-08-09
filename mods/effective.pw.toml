@@ -1,0 +1,10 @@
+name = "Effective"
+filename = "effective-1.2.1-sources.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ladysnake/Effective/releases/download/1.2.1/effective-1.2.1-sources.jar"
+hash-format = "sha256"
+hash = "b0352b4b3b5808169390122483da00c0fe98bc9cefb3a9e22bc2a4399b072d3f"
+
+
