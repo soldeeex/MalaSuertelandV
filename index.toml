@@ -733,6 +733,11 @@ hash = "652a6f02347af12ad23efcb780407aee0a3ba5bd60ec5d9d8c386e6b05a2f7a1"
 metafile = true
 
 [[files]]
+file = "mods/artifacts-fabric.pw.toml"
+hash = "cd5ae872e2a98bf094c387bd2ad034859427757fe77354838c37c3dc7f9d358c"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
@@ -775,6 +780,11 @@ metafile = true
 [[files]]
 file = "mods/carrier.pw.toml"
 hash = "91325a1416599cdd975e90b1ac2435f6c75b6afc7e56b30e9582567d2b02e216"
+metafile = true
+
+[[files]]
+file = "mods/charm.pw.toml"
+hash = "ec1f938bc4f790d030049c1f43eac4a5d2814761b0ff61067d4e6d2f5f0a8cc0"
 metafile = true
 
 [[files]]
