@@ -698,6 +698,11 @@ hash = "609f69cab831f8d641c7d3a592ac1c0cccd0555267020b622318dce4a35d05e7"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "3bdcf466cdc775dcde1743e4b1e49b70018ef1b128384e6ad1b980ef97244b4e"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "728c85c89f01a18eef1b03d6de2285e2bbf4c50e90b1ce8ae355e73207551584"
 metafile = true
@@ -820,6 +825,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-fabric.pw.toml"
 hash = "c4ad779f7981008be478e289038bdb9091bf35f4d9c8d651b5db1689b8ba4491"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "c385fce317c8d6ca25171c035c46651556b2c9b2032ac03c61b45704eb1ffd18"
 metafile = true
 
 [[files]]
