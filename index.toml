@@ -693,6 +693,11 @@ hash = "ef782340ef5ae95c43bb30a20d31ee8ac55d62b7253759f52d21ae28f0fa3229"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "48f377a6673a9cbaa80e6a8fc99a7ac54e42b502ba7365b63db92145ce908bf4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "609f69cab831f8d641c7d3a592ac1c0cccd0555267020b622318dce4a35d05e7"
 metafile = true
@@ -750,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "880d63ceab82d4f5167fcb38796a1d767efa4bd749b4caa70b8ad33f6d80fe6b"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.pw.toml"
+hash = "79c8680f0830484b9d32844127438fd7dddeb63dd870b71eb1aace99d902e70c"
 metafile = true
 
 [[files]]
@@ -1003,6 +1013,11 @@ hash = "5045e3ad32cff0eae47cedf0e254c3cfa763d8f3049180f0fb3c661050ae235f"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "8720f155e1d7565f8cf0189f3b947d32903bf6e1f74b9e1f08f02882a3df94c4"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
@@ -1245,6 +1260,11 @@ metafile = true
 [[files]]
 file = "mods/paintings.pw.toml"
 hash = "9abcfb50b798cddb01116eea6d61c50bb91d20a0136efdea1e2e3084e531fe8a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
