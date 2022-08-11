@@ -1233,11 +1233,6 @@ hash = "441186796c072c4147b6aa43de0725a6715fd3abc5d1ff6117fb45049055c49e"
 metafile = true
 
 [[files]]
-file = "mods/numismatic-overhaul.pw.toml"
-hash = "bec80b5413cc4d277662be980a61393ce84a78452bc55671d650bb17c6f29e48"
-metafile = true
-
-[[files]]
 file = "mods/observable.pw.toml"
 hash = "aa64f5b7550437e363a22954515eaedb7ba78d927e90a221d7414ff5f3a61bee"
 metafile = true
