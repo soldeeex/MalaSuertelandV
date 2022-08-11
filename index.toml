@@ -1043,11 +1043,6 @@ hash = "7b70729d63b1c08854b807ffb49ec176bcea17ad143142b36697f64256268b17"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "53d676cb098f77c9c84750b04ee3c384cc04a55bc92dc2c6e4cc0c31c31f00bf"
-metafile = true
-
-[[files]]
 file = "mods/inventory-totem-fabric.pw.toml"
 hash = "7f989ac1904e8cc195816e7c051c6dc86af0d259c3bb502d0ebca6c18bef07c7"
 metafile = true
