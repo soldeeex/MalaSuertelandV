@@ -654,7 +654,7 @@ hash = "df7d4781fb06f73683aa49b027b8270b2af938b3794b1a9f1d673f89137cf47f"
 
 [[files]]
 file = "config/zoomify.json"
-hash = "98733ae0d3142295764e9c949c9f78b4d073495934d540ffc59756feec577588"
+hash = "2afb500653b653c7eb9c6282fe44554371454d259dc0b18cbdccb954f550020e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1490,6 +1490,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ec9a9dd420b2af7eaa10f9c360d62a7bd337ccdefe155832d4f063b9f9741de6"
 
 [[files]]
 file = "recursos/logo.png"
