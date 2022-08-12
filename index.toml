@@ -1494,6 +1494,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ec9a9dd420b2af7eaa10f9c360d62a7bd337ccdefe155832d4f063b9f9741de6"
+preserve = true
 
 [[files]]
 file = "recursos/logo.png"
