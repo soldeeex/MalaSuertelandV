@@ -6,7 +6,7 @@ hash = "2b4a36b3152af89c2af116c71c13e3d20ee2acb0c8cbc4b468d8e2d388727ae0"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "a9fa83267b7a67c97ded9110eb8dc5636ab5a528fe52851317c0c16d93a3800c"
+hash = "4b826a017fed64a11651fd23da46753914d51085f53df8ce93aaf7e929c0045e"
 
 [[files]]
 file = "config/PlasmoVoice/config.json"
@@ -30,11 +30,11 @@ hash = "810a7ea154fc48930a430c222e2106c528ee1f6c867819209ccd3074b6172694"
 
 [[files]]
 file = "config/VillagerNames/sureNames.json"
-hash = "554d61a534df0aacb53b51fe0e6056779d7c26dbaadb727973f62b69013303f9"
+hash = "8dc3cb36f432b51de16444bc42ab47c3c9cfbff7beb10e02a982242c76301ffd"
 
 [[files]]
 file = "config/VillagerNames/villagerNames.json"
-hash = "ddd9cd91d03c3d964a4c73e6e97f83a84d5ecf1c562b79277affcce1ca32ac54"
+hash = "27340029a4f9d9f08318495f9c414e3b62f0662f5527d860093833f156696cd9"
 
 [[files]]
 file = "config/VillagerNames/villagerRules.json"
@@ -329,10 +329,6 @@ file = "config/cull-less-leaves.toml"
 hash = "9b57eef0e42480dce089fa06097d0c960ca47ef64bc1b489ceb71713975cdf58"
 
 [[files]]
-file = "config/dashloader.json"
-hash = "940f0058d6d773187c70b7b93ddaa319c2fab6245497be077f284600b1104f22"
-
-[[files]]
 file = "config/debugify-descriptions.json"
 hash = "981f18c0cffb0ab5894724985f1de7e6b36435677ae8ae82497644e6cc099ba3"
 
@@ -431,14 +427,6 @@ hash = "7b90ecb0658aa727372c71a4b8a5600a2748725790902130d6611531e09f1a08"
 [[files]]
 file = "config/inventoryhud.json"
 hash = "6052ad77431881835e6a3ca8e25da3a1971e67a375212b93e892d0cf312c5440"
-
-[[files]]
-file = "config/inventorysorter/blacklist.json5"
-hash = "274dcf155e9646094d42f860442f2c29f627145c90ad01d6ea10833915552687"
-
-[[files]]
-file = "config/inventorysorter/config.json5"
-hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -623,10 +611,6 @@ hash = "a37d3ae58fba311e339dcc6229bf0886893b584bdbd9506376da5e9a0025d1c1"
 [[files]]
 file = "config/travelersbackpack.json5"
 hash = "e8ca1e995199459eda73cd535df303251402bce946a4dac99e0a20a94a74aada"
-
-[[files]]
-file = "config/universal-graves.json"
-hash = "ec1e69e4fc15862658c6243fc04fbd671636e40b016cc8b91b3ede1b7efdf3a2"
 
 [[files]]
 file = "config/visuality.json"
