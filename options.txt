@@ -1,5 +1,6 @@
 renderDistance:10
 simulationDistance:8
+darkMojangStudiosBackground:true
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.x
