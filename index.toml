@@ -867,6 +867,11 @@ hash = "0ab9e0e181492c1942e852c2286608b5a97d8261f758c2dc33ffafbfa68567be"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "1b68609581ff8c27b6eb2ded6deac8e1d062b49f3859c2e2ff0dd720de04b547"
+metafile = true
+
+[[files]]
 file = "mods/earth2java-fabric.pw.toml"
 hash = "7734ab62ce79d98314b447833b6ae710cf7b6c1f325f10d36072d21b8f3824d5"
 metafile = true
