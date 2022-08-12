@@ -1492,11 +1492,6 @@ hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "98cdcd0d3ee30142632155412615a504107a292ce477ecd3f813861421cc5ef9"
-preserve = true
-
-[[files]]
 file = "recursos/logo.png"
 hash = "87c4df790f0bc55e4c7b93677211f5b5faef88aad3647aedab21706037cf62c7"
 
