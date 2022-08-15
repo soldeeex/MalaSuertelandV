@@ -1072,6 +1072,11 @@ hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "50587143a6e103086389a98ede6991470f831811839aed5b4e9e2e7c884cee57"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "c2f8fbbfa209673ad71c2157b07254a096d423100c3c1e25aa1ba57822368abd"
 metafile = true
@@ -1294,6 +1299,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "66f45a7fc2ebc338933a90d9385494ea9e0c8aef5cb9e872219904f0d0744335"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ce702760d6523461d9b563e932273fa507d7c2cee5a2b70c1cdfd7c226528a04"
 metafile = true
 
 [[files]]
