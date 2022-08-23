@@ -827,6 +827,11 @@ hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "7c95c7eb827be20a2ea98e9a5924e43c8123bfd2bcb01fdcc5a538d37faabe8f"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-fabric.pw.toml"
 hash = "c4ad779f7981008be478e289038bdb9091bf35f4d9c8d651b5db1689b8ba4491"
 metafile = true
