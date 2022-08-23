@@ -732,6 +732,11 @@ hash = "43ad173e5e3b92a29c52ba9f7af4c9ba63bf2c57076ea83349967f37499dccef"
 metafile = true
 
 [[files]]
+file = "mods/better-runtime-resource-pack.pw.toml"
+hash = "d2ee039a50af5c7d27b6e0962af0d80d9be723875bf9dbaeff8e81f14dcb63f6"
+metafile = true
+
+[[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "894c967c5a1f5d35a1ff7eb32f506fc1cddc31e27762692eafff42d6259d6885"
 metafile = true
@@ -919,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/extended-block-shapes.pw.toml"
+hash = "d0c87d3023b3b25ba76974c7c17ea5d7dae2d4a1b29aa6265d3e323b6b1b0146"
 metafile = true
 
 [[files]]
