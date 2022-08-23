@@ -752,6 +752,11 @@ hash = "880d63ceab82d4f5167fcb38796a1d767efa4bd749b4caa70b8ad33f6d80fe6b"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "6411a9ecd4cdd9bb216f45b346bc3d099084a58e1c52f3da1589ebe0289d51ec"
+metafile = true
+
+[[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "79c8680f0830484b9d32844127438fd7dddeb63dd870b71eb1aace99d902e70c"
 metafile = true
