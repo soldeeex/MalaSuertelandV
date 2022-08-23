@@ -1452,11 +1452,6 @@ hash = "1e2eb57cc344d6e87b2f46d6d6e0e7c77541e83f78a51313523f337acc700e50"
 metafile = true
 
 [[files]]
-file = "mods/voidtotem-fabric.pw.toml"
-hash = "826e9fcddce6ad57d402f216fad414a6c04a0c8058841de1c6b96432a251ef6e"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "40360801a7c848670982d7f332d30a25c9a62490caeb58e2d2664629f7a20ad5"
 metafile = true
