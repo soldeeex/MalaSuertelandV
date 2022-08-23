@@ -1,0 +1,13 @@
+name = "Alloygery"
+filename = "alloygery-2.0+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d8f0ea59a7166159e4f88c8ebdc5e9c60531ccd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3847602
+project-id = 573592
