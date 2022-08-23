@@ -142,7 +142,7 @@ hash = "deb98f210af6ab242124a2a6619057079c77136a71531915806400fe7f1e4053"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
-hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
