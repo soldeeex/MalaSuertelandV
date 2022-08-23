@@ -962,6 +962,11 @@ hash = "3379dabf82c532b771fe05d44947ddef250c214a606814e7da5e9219949087a6"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
 metafile = true
