@@ -1357,11 +1357,6 @@ hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
-file = "mods/rpgz.pw.toml"
-hash = "902335f829fd4be449afe154aa90e876a206658d5adfb9ff0b6b74cdb5ba31e1"
-metafile = true
-
-[[files]]
 file = "mods/second-chance.pw.toml"
 hash = "b3a7a768f5cad649f60691f707c2b7c92de86fff18c50bb6ad82074d1d4d28c3"
 metafile = true
