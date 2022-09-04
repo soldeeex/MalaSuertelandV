@@ -1057,6 +1057,11 @@ hash = "b823831af9d57c2e6429bfd0cb51026658c507aa267dfdcaccccbe2d9c3f4a3a"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "7b70729d63b1c08854b807ffb49ec176bcea17ad143142b36697f64256268b17"
 metafile = true
@@ -1252,11 +1257,6 @@ hash = "441186796c072c4147b6aa43de0725a6715fd3abc5d1ff6117fb45049055c49e"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "aa64f5b7550437e363a22954515eaedb7ba78d927e90a221d7414ff5f3a61bee"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
@@ -1429,11 +1429,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot-fabric-edition.pw.toml"
 hash = "ec8d7505856c0cc9a53f072e111697a44d77373afb96f8116b235ec4a717bcf5"
-metafile = true
-
-[[files]]
-file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "7369dcfdab762704ee360d8f003e80fca526052458fa2014abc1e8834c0600a2"
 metafile = true
 
 [[files]]
