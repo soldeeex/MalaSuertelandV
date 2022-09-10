@@ -357,6 +357,10 @@ file = "config/endgoblintraders.toml"
 hash = "68cf9ebc4ff1e41e34cb8457a04125738919a6025fc1e61daf3bbbec769bc6d3"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "860052f1a66b9ca4bca2cce1154498ca7c1ee9ffea0a6bea9ae25d2e50399882"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "46eb61341f2f448af09051649509a69305a6923a7139a1c042af990e84a0da75"
 
