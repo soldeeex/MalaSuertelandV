@@ -902,6 +902,11 @@ hash = "e761b7aa8e757ec18a3030d4a791567102765f7eace1a133b0f4b973c6f28326"
 metafile = true
 
 [[files]]
+file = "mods/editsign.pw.toml"
+hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
 hash = "2aa9c88983a5c738fed28b83f6328a2db794b6a700a100af879ba7730799f9ab"
 metafile = true
@@ -1294,6 +1299,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
+metafile = true
+
+[[files]]
+file = "mods/picturesign.pw.toml"
+hash = "f9488a692ff93b45849f15bd41c1ee39e1fe7a86d2b5d3522ab55448c1ed41a5"
 metafile = true
 
 [[files]]
