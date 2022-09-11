@@ -792,6 +792,11 @@ hash = "fbdaf57021062d11aeb12a094abba257a13da22e2a8ed4b1cd9ab3bc85274ae7"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
 metafile = true
@@ -853,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "45fb81db043dd0fbe14a5049ad4600dab71935052d5c9a82b6320484ca2dacaa"
+hash = "c5bd4a4596e5a5b994963e8804a10fab35729c3ce86e6f5797efa38ccefab0bc"
 metafile = true
 
 [[files]]
@@ -954,11 +959,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
-metafile = true
-
-[[files]]
-file = "mods/fabric-chisel.pw.toml"
-hash = "410bf2dbc317168133467165abee4518f920f5c218e1df35e42058f36bada13e"
 metafile = true
 
 [[files]]
