@@ -5,7 +5,13 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  custom_menu_title = MALASUERTELAND V
   randomonlyfirsttime = false
+}
+
+customization {
+  path = recursos/wallpaper-mala.jpeg
+  action = texturizebackground
 }
 
 customization {
@@ -23,7 +29,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -62
+  y = -47
 }
 
 customization {
@@ -39,6 +45,15 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = mid-centered
   x = -100
@@ -48,8 +63,24 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 175
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = setbuttonlabel
   value = Mods %loadedmods%/%totalmods%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -74,11 +105,46 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376310%
+  orientation = mid-centered
+  x = 80
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=376310%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -87
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -102,11 +168,20 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 28
+  y = 29
 }
 
 customization {
@@ -123,11 +198,29 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
   x = -100
   action = movebutton
   y = 3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -177,17 +270,6 @@ customization {
 }
 
 customization {
-  path = recursos/logo.png
-  orientation = mid-centered
-  x = -180
-  width = 360
-  action = addtexture
-  actionid = cf1b556c-b55a-4d71-9b10-ea847b17963f1659135030577
-  y = -147
-  height = 50
-}
-
-customization {
   showname = true
   orientation = bottom-left
   crouching = false
@@ -205,18 +287,43 @@ customization {
   orientation = bottom-right
   enable_scrolling = true
   shadow = true
+  delayappearanceseconds = 1.0
   scale = 1.0
   source = RAM: %usedram%/%maxram%
   text_border = 0
   case_mode = normal
+  fadein = true
   source_mode = direct
   line_spacing = 1
+  fadeinspeed = 1.0
   x = -229
   width = 229
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = fb503e22-22cf-4061-aa1e-e3eadf668ede1659814153897
   y = -11
+  delayappearance = true
   alignment = right
+  delayappearanceeverytime = true
   height = 11
+}
+
+customization {
+  vr:showif:windowheightbiggerthan = true
+  orientation = mid-centered
+  vr:value:windowwidthbiggerthan = 1000
+  delayappearanceseconds = 1.0
+  vr:value:windowheightbiggerthan = 700
+  path = recursos/logo.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -254
+  width = 509
+  action = addtexture
+  actionid = 09fdb068-4268-4e74-90a7-a1b689a634e31662934280493
+  y = -142
+  vr:showif:windowwidthbiggerthan = true
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 66
 }
 
