@@ -1,0 +1,13 @@
+name = "Shadew's Foxes"
+filename = "foxes-1.3+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2036a2f49514ee8ba0323cd86c3e9b651fd43d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3782778
+project-id = 523225
