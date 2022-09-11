@@ -897,6 +897,11 @@ hash = "1b68609581ff8c27b6eb2ded6deac8e1d062b49f3859c2e2ff0dd720de04b547"
 metafile = true
 
 [[files]]
+file = "mods/duckling.pw.toml"
+hash = "bef56ae3e890c22f1c344d6b3af176c69cb0e7838c824b5e12e6dde005fef35e"
+metafile = true
+
+[[files]]
 file = "mods/earth2java-fabric.pw.toml"
 hash = "7734ab62ce79d98314b447833b6ae710cf7b6c1f325f10d36072d21b8f3824d5"
 metafile = true
@@ -987,6 +992,11 @@ hash = "3379dabf82c532b771fe05d44947ddef250c214a606814e7da5e9219949087a6"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "7e434fc3d8b60eaf434808aa5acca81e4e55ea1d655ddf905c56f81ad8091017"
+metafile = true
+
+[[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
@@ -1034,6 +1044,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders-fabric.pw.toml"
 hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
+metafile = true
+
+[[files]]
+file = "mods/grizzly-bear.pw.toml"
+hash = "4e50736d50c63d84569185a9c3fbf28133fdb42a768f7f76362ffff0f8e012b0"
 metafile = true
 
 [[files]]
@@ -1232,6 +1247,11 @@ hash = "1fc0f8c34ceb85f630ee60d47eea2eb80d9b078004a3899a8a75e1d68dc18c32"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "cc3da4b62d83c6f7c9dd4ba448d23fd507d305115c2a3146515cec9f62e90a75"
+metafile = true
+
+[[files]]
 file = "mods/nbt-crafting.pw.toml"
 hash = "8e3c9583a7832a832687f8bc2da6bea1d2996fb81b7ef73e459c0a392e532147"
 metafile = true
@@ -1407,6 +1427,11 @@ hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
 
 [[files]]
+file = "mods/straw-golem-reborn.pw.toml"
+hash = "71e78eecc0483d619ee7516de32957261359afba463ee465a59fdb6e5111a922"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
 metafile = true
@@ -1454,6 +1479,11 @@ metafile = true
 [[files]]
 file = "mods/untagged.pw.toml"
 hash = "de250c81c2947122a1172002a7c3efb4cf03c2111d2e99c6e6f2a8fcb2d9c94e"
+metafile = true
+
+[[files]]
+file = "mods/untitled-duck-mod-fabric.pw.toml"
+hash = "e1c60dd2b33a1750b2a13e531a31f2ccf72599e78b99349dc0d23a72b5d65563"
 metafile = true
 
 [[files]]
