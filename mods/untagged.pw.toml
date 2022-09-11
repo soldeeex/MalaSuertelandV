@@ -1,0 +1,13 @@
+name = "untagged"
+filename = "untagged-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "402170d9a8d2936abfacd410c304228e7098164b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3693316
+project-id = 593884

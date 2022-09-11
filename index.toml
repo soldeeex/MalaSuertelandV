@@ -1452,6 +1452,11 @@ hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
+file = "mods/untagged.pw.toml"
+hash = "de250c81c2947122a1172002a7c3efb4cf03c2111d2e99c6e6f2a8fcb2d9c94e"
+metafile = true
+
+[[files]]
 file = "mods/updated-wall-jump.pw.toml"
 hash = "20dd540d01c50a71f49be2ee64050bfa0d03d6626d5c53019f7f47f28a511925"
 metafile = true
