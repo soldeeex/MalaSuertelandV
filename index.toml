@@ -1432,6 +1432,11 @@ hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
 metafile = true
 
 [[files]]
+file = "mods/transparent-cosmetics.pw.toml"
+hash = "af9698c6f2f6937a34519110b98a0f083701bd81288b9044aafaf84c785fbc47"
+metafile = true
+
+[[files]]
 file = "mods/transparent.pw.toml"
 hash = "54b9c270ffd86cfe5df2f74287df8f562cd31c10351e082bb55922e44e428e94"
 metafile = true
