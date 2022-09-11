@@ -832,11 +832,6 @@ hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "4e2a3f28c677a309e6fa5c2039d8bcdc7cbf6ea186cf479680c5c8e480412b83"
-metafile = true
-
-[[files]]
 file = "mods/comforts-fabric.pw.toml"
 hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
 metafile = true
