@@ -852,6 +852,11 @@ hash = "c4ad779f7981008be478e289038bdb9091bf35f4d9c8d651b5db1689b8ba4491"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "45fb81db043dd0fbe14a5049ad4600dab71935052d5c9a82b6320484ca2dacaa"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "c385fce317c8d6ca25171c035c46651556b2c9b2032ac03c61b45704eb1ffd18"
 metafile = true
