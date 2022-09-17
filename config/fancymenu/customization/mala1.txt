@@ -40,6 +40,15 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = recursos\mala-button-hover.png
+  backgroundnormal = recursos\mala-button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = sethoverlabel
   label = Entrar al servidor
 }
@@ -72,6 +81,15 @@ customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = setbuttonlabel
   value = Mods %loadedmods%/%totalmods%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = recursos\mala-button-hover.png
+  backgroundnormal = recursos\mala-button.png
 }
 
 customization {
@@ -140,6 +158,15 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = recursos\mala-button-hover.png
+  backgroundnormal = recursos\mala-button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   seconds = 1.0
   onlyfirsttime = false
   fadein = true
@@ -169,6 +196,15 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = recursos\mala-button-hover.png
+  backgroundnormal = recursos\mala-button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   seconds = 1.0
   onlyfirsttime = false
   fadein = true
@@ -189,6 +225,15 @@ customization {
   width = 200
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = recursos\mala-button-hover.png
+  backgroundnormal = recursos\mala-button.png
 }
 
 customization {
