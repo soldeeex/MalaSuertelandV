@@ -1606,6 +1606,14 @@ file = "recursos/logo.png"
 hash = "87c4df790f0bc55e4c7b93677211f5b5faef88aad3647aedab21706037cf62c7"
 
 [[files]]
+file = "recursos/mala-button-hover.png"
+hash = "d6010f798acd9d7a74cac7a77556ae1884c50e3fcb0c3c3bef49143c4a6e6234"
+
+[[files]]
+file = "recursos/mala-button.png"
+hash = "b7eede56dfaebfe120267cb5f3daf71c85d239ef024d2d52598f14b7b49b4cd2"
+
+[[files]]
 file = "recursos/wallpaper-mala.jpeg"
 hash = "84184fcbabf0a9e95439cc0d3ae3a67e2572ddae6f8125e6975fb50fd1d1f5f3"
 
