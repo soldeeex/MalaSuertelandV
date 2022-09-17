@@ -373,10 +373,6 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
-file = "config/fancymenu/customization/mala1.txt"
-hash = "0fb14990f3f8877d7948dc277eb3a1f042e787d50dee1b673a24885ff7ac0e9c"
-
-[[files]]
 file = "config/fancymenu/locals/de_de.local"
 hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
