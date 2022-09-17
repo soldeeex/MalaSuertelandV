@@ -374,7 +374,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/mala1.txt"
-hash = "72c5e1246a33cd62890f9c9cee5d2a31977e7f0cee4ede8510a43de5c90b4c5f"
+hash = "cfef0758befa89b4c6947fe598b14a9f87ab3c6a9b634e01d7ebacd1225b02ee"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "477771b89af5d034a833ec5391596d8f22ff5bfc197b0f0749bf193224754c6c"
+hash = "20dd8853a5b18df0b2cf9f7efc241d69d20ee786fc17090b6153c3a453077a7c"
 metafile = true
 
 [[files]]
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/iammusicplayer.pw.toml"
-hash = "5045e3ad32cff0eae47cedf0e254c3cfa763d8f3049180f0fb3c661050ae235f"
+hash = "4dbe77bf9da414454e2f05cc73a885e01bc9bb03190deba4fb96ad26bc105ac2"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
+hash = "9c0fd8ca014b02965574d607aa36becf943d9dc147a707f01e47fba2f0f1434d"
 metafile = true
 
 [[files]]
