@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "de66a5d719f1bbddc1f1b40e52606e4280808c7f36dd795e1452e6145be32f4e"
+hash = "477771b89af5d034a833ec5391596d8f22ff5bfc197b0f0749bf193224754c6c"
 metafile = true
 
 [[files]]
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/iammusicplayer.pw.toml"
-hash = "9a0e8e323426ef4374bffd01914530ba1c141bace8169e7f9146b1a852f3e1d5"
+hash = "5045e3ad32cff0eae47cedf0e254c3cfa763d8f3049180f0fb3c661050ae235f"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "b7ea45d383deb9af69c1a05fecc2ca0575c9e6cc8d156a4d7729b47deb236373"
+hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
 metafile = true
 
 [[files]]
@@ -1288,7 +1288,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "6682496589ec49c8951775d50d2c50fc383989c4d9f1b6f30271d9924581520c"
+hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
