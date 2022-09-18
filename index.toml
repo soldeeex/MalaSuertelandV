@@ -848,6 +848,11 @@ hash = "c4ad779f7981008be478e289038bdb9091bf35f4d9c8d651b5db1689b8ba4491"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "e6bbb380943ba3bbe1bfad36f9373fc40d364b3b605fc7ce338b52fe6734b8ea"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "c5bd4a4596e5a5b994963e8804a10fab35729c3ce86e6f5797efa38ccefab0bc"
 metafile = true
