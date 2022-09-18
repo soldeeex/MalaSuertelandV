@@ -1003,6 +1003,11 @@ hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
@@ -1608,6 +1613,10 @@ hash = "d6010f798acd9d7a74cac7a77556ae1884c50e3fcb0c3c3bef49143c4a6e6234"
 [[files]]
 file = "recursos/mala-button.png"
 hash = "b7eede56dfaebfe120267cb5f3daf71c85d239ef024d2d52598f14b7b49b4cd2"
+
+[[files]]
+file = "recursos/mala-ico.png"
+hash = "a087b819c661ff2ca56eeadc2637a4eb58cc1cf4a49dcea9f62f58c9aca2d08a"
 
 [[files]]
 file = "recursos/wallpaper-mala.jpeg"
