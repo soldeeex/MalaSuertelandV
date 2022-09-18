@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "e6bbb380943ba3bbe1bfad36f9373fc40d364b3b605fc7ce338b52fe6734b8ea"
+hash = "3c8d0b67982025983df04a2f93e198b028b69f88c45123de674e6774db6a9fd3"
 metafile = true
 
 [[files]]
@@ -1000,11 +1000,6 @@ metafile = true
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
-metafile = true
-
-[[files]]
-file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
 metafile = true
 
 [[files]]
