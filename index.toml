@@ -978,11 +978,6 @@ hash = "27e0d89481f528cd34a8ad5fec7cf337832fbb14f285e459465210d330af2036"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "28f81d98f2cd1b459f462653da026663b1183299953d14179a0a47549176611e"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "2e25280e924e9a871142a5a95f35016e04f0eba2c86f4b84815d5db009ed19f3"
 metafile = true
@@ -1333,11 +1328,6 @@ hash = "f9488a692ff93b45849f15bd41c1ee39e1fe7a86d2b5d3522ab55448c1ed41a5"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "b578e1cdfd4d2b19db680cdd6899076019ab97bbb8ae3a431e69fd826c478482"
-metafile = true
-
-[[files]]
 file = "mods/pleasant-pigeons.pw.toml"
 hash = "ff7978c2a71457db226ee211a221baec54535fb268e5cf658ff13ad63aa61b9f"
 metafile = true
@@ -1405,6 +1395,11 @@ metafile = true
 [[files]]
 file = "mods/shadews-foxes.pw.toml"
 hash = "f2604f94cfe159eb5b9c95f3f4cdbf3f437aa977d03ed854939cf46ec6ea8a3e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f3460595866614c3875f463fef43f487b7013f05d01ca852e914532805ae49c8"
 metafile = true
 
 [[files]]
